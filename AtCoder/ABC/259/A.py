@@ -13,9 +13,6 @@
 
 
 # input
-from re import T
-
-
 n, m, x, t, d = list(map(int, input().split()))
 
 # calc
